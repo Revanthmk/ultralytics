@@ -1,0 +1,6 @@
+names:
+- Tunnel
+nc: 1
+test: /home/revanth/Yolo/ultralytics/data/final_train_data/test/images
+train: /home/revanth/Yolo/ultralytics/data/final_train_data/train/images
+val: /home/revanth/Yolo/ultralytics/data/final_train_data/test/images
